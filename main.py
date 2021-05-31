@@ -8,6 +8,7 @@ start_x = 650
 start_y = 560
 gamebox = start_x, start_y, start_x + 510, start_y + 1
 
+# Total length is 510 so creates 4 sections (1 for each tile)
 pos_x = [0, 170, 340, 500]
 
 # Function used to test how long it takes to screenshot 100 times
